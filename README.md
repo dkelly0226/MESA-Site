@@ -1,1 +1,13 @@
 # MESA-Site
+
+This is the source code for rebuilding the Chabot MESA/TRiO-STEM Website.
+
+So far, the Index and Apply pages are completed, with templates for the Study Hall, Mentorship, and Events pages. The headers and footers for each page are connected to header.html and footer.html respectively.
+
+*Note: This website required JQuery to be installed and configured with the IDE being used. This enables the script for the connected headers/footers on each page.
+
+There are backups of each page in the ./backups folder.
+
+For updating pictures and flyers: best format is .png for highest quality and best scalability. Label each image clearly, and add it to the respective folder.
+
+Every section is created by boxes (most are flexboxes), with settings controlled in styles.css. Be cautious of which boxes are connected by larger containers, and how effects to larger containers can trickle down. Each image should be inside individual boxes within a larger container.
