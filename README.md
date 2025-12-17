@@ -14,6 +14,8 @@ For updating pictures and flyers: best format is .png for highest quality and be
 
 Every section is created by boxes (most are flexboxes), with settings controlled in styles.css. Be cautious of which boxes are connected by larger containers, and how effects to larger containers can trickle down. Each image should be inside individual boxes within a larger container.
 
+Please please please, feel free to optimize. This was my first attempt at a website, so there are definitely ways to clean up the code that I didn't have time to figure out. For example, the boxes can likely be condensed, as well as some better categorization.
+
 Remember: if you get stuck, other people have undoubtedly run into similar issues. So don't be afraid to ask around or look up different solutions.
 
 Best of luck, and happy coding!
