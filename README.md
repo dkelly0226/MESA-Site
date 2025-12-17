@@ -4,7 +4,7 @@ This is the source code for rebuilding the Chabot MESA/TRiO-STEM Website.
 
 So far, the Index and Apply pages are completed, with templates for the Study Hall, Mentorship, and Events pages. The headers and footers for each page are connected to header.html and footer.html respectively.
 
-*Note: This website required JQuery to be installed and configured with the IDE being used. This enables the script for the connected headers/footers on each page.
+*Note: This website requires JQuery to be installed and configured with the IDE being used. This enables the script for the connected headers/footers on each page.
 
 There are backups of each page in the ./backups folder.
 
