@@ -207,7 +207,7 @@ address {
     display: flex;
     justify-content: space-evenly;
     align-items: flex-start;
-    padding-bottom: 25px;
+    padding-bottom: 24px;
 }
 
 .map {
@@ -233,4 +233,12 @@ address {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.tutoring {
+    background-color: floralwhite;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-bottom: 24px;
 }
