@@ -1,5 +1,7 @@
 # MESA-Site
 
+***PLEASE IGNORE THE STYLES.CSS THAT IS OUTSIDE OF THE WEBSITE FOLDER***
+
 *This project requires basic knowledge of HTML, CSS, and minor amounts of Javascript. Resources that might help include The Odin Project (FreeCodeCamp version to bypass installing Linux) and reading documentation (I KNOWWWW 😭), and Google is your friend.*
 
 *Note: This website requires JQuery to be installed and configured with the IDE being used. This enables the script for the connected headers/footers on each page.
