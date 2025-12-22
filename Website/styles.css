@@ -14,7 +14,6 @@ a {
 
 address {
     font-style: normal;
-    text-align: center;
 }
 
 #footer {
@@ -233,6 +232,7 @@ address {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
 }
 
 .tutoring {
